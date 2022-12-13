@@ -10,6 +10,7 @@ return (
 <h2>Alluri Sitarama Raju</h2>
 <h2>Subhas Chandra Bose</h2>
 <h2>Mohandas Karamchand Gandhi</h2>
+<h2>Lala Lajpat Rai.</h2>
 </div>
 );
 }
