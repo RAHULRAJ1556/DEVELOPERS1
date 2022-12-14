@@ -11,6 +11,7 @@ return (
 <h2>Subhas Chandra Bose</h2>
 <h2>Mohandas Karamchand Gandhi</h2>
 <h2>Lala Lajpat Rai.</h2>
+<h2>Pingali Venkayya</h2>
 </div>
 );
 }
