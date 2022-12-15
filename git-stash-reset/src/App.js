@@ -12,6 +12,7 @@ return (
 <h2>Mohandas Karamchand Gandhi</h2>
 <h2>Lala Lajpat Rai.</h2>
 <h2>Pingali Venkayya.</h2>
+<h2>Nehru</h2>
 </div>
 );
 }
